@@ -30,3 +30,11 @@
 Hello 👋🏼<br>
 I'm <b>Mitch Treece</b> 😎
 </div>
+
+<br>
+
+<div id="resume" align="center">
+    <a href="assets/resume.pdf">
+        <img src="assets/resume.png"/>
+    </a>
+</div>
