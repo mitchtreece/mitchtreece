@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="assets/avatar.png" width="128"/>
+    <img src="assets/avatar.png" width=128/>
     <br>
     <br>
     <div id="badges">
@@ -24,7 +24,11 @@
     </div>
 </div>
 
---
+<br>
+
+---
+
+<br>
 
 <div id="hero" align="center">
 Hello 👋🏼<br>
@@ -35,6 +39,6 @@ I'm <b>Mitch Treece</b> 😎
 
 <div id="resume" align="center">
     <a href="assets/resume.pdf">
-        <img src="assets/resume.png"/>
+        <img src="assets/resume.png" width=512/>
     </a>
 </div>
