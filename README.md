@@ -1,4 +1,9 @@
-<div id="header" align="center">
+<div id="header">
+Hello.<br>
+$${I'm \space\color{red} Mitch Treece \color{white}}$$
+<div>
+
+<!-- <div id="header" align="center">
     <img src="assets/avatar.png" width=128/>
     <br>
     <br>
@@ -41,4 +46,4 @@ I'm <b>Mitch Treece</b> 😎
     <a href="assets/resume.pdf">
         <img src="assets/resume.png" width=512/>
     </a>
-</div>
+</div> -->
