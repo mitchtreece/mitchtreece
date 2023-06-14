@@ -15,14 +15,14 @@
     </div>
     <br>
     <div id="technology">
-        <img src="https://cdn.simpleicons.org/swift/f5f5f2" height="48" width="48" title="Swift"/>&nbsp;
-        <img src="https://cdn.simpleicons.org/c/f5f5f2" height="48" width="48" title="C"/>&nbsp;
-        <img src="https://cdn.simpleicons.org/c++/f5f5f2" height="48" width="48" title="C++"/>&nbsp;
-        <img src="https://cdn.simpleicons.org/kotlin/f5f5f2" height="48" width="48" title="Kotlin"/>&nbsp;
-        <img src="https://cdn.simpleicons.org/ruby/f5f5f2" height="48" width="48" title="Ruby"/>&nbsp;
-        <img src="https://cdn.simpleicons.org/python/f5f5f2" height="48" width="48" title="Python"/>&nbsp;
-        <img src="https://cdn.simpleicons.org/node.js/f5f5f2" height="48" width="48" title="Node"/>&nbsp;
-        <img src="https://cdn.simpleicons.org/docker/f5f5f2" height="48" width="48" title="Docker"/>&nbsp;
+        <img src="https://cdn.simpleicons.org/swift/F37D4D" height="48" width="48" title="Swift"/>&nbsp;
+        <img src="https://cdn.simpleicons.org/c/F37D4D" height="48" width="48" title="C"/>&nbsp;
+        <img src="https://cdn.simpleicons.org/c++/F37D4D" height="48" width="48" title="C++"/>&nbsp;
+        <img src="https://cdn.simpleicons.org/kotlin/F37D4D" height="48" width="48" title="Kotlin"/>&nbsp;
+        <img src="https://cdn.simpleicons.org/ruby/F37D4D" height="48" width="48" title="Ruby"/>&nbsp;
+        <img src="https://cdn.simpleicons.org/python/F37D4D" height="48" width="48" title="Python"/>&nbsp;
+        <img src="https://cdn.simpleicons.org/node.js/F37D4D" height="48" width="48" title="Node"/>&nbsp;
+        <img src="https://cdn.simpleicons.org/docker/F37D4D" height="48" width="48" title="Docker"/>&nbsp;
     </div>
 </div>
 
