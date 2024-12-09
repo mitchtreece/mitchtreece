@@ -20,8 +20,8 @@
     <div id="tech-stack-icons">
         <img src="https://cdn.simpleicons.org/swift/F9B9A8" height="48" width="48" title="Swift"/>&nbsp;
         <img src="https://cdn.simpleicons.org/kotlin/F9B9A8" height="48" width="48" title="Kotlin"/>&nbsp;
-        <img src="https://cdn.simpleicons.org/c++/F9B9A8" height="48" width="48" title="C++"/>&nbsp;
         <img src="https://cdn.simpleicons.org/typescript/F9B9A8" height="48" width="48" title="TypeScript"/>&nbsp;
+        <img src="https://cdn.simpleicons.org/deno/F9B9A8" height="48" width="48" title="TypeScript"/>&nbsp;
         <img src="https://cdn.simpleicons.org/nestjs/F9B9A8" height="48" width="48" title="Nest.js"/>&nbsp;
         <img src="https://cdn.simpleicons.org/python/F9B9A8" height="48" width="48" title="Python"/>&nbsp;
         <img src="https://cdn.simpleicons.org/docker/F9B9A8" height="48" width="48" title="Docker"/>&nbsp;
